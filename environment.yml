@@ -1,0 +1,5 @@
+name: spotipy
+dependencies:
+  - python=3.9
+  - pip:
+    - spotipy=2.19.0
